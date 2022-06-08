@@ -23,3 +23,11 @@
 #### • autocomplete JS code <br />• button to format the code <br />• resize code cell vertically <br />• resize code editor horizontally <br />• execute the code and display the result in iframe
 
 ##### Live: https://scottzhu-resizable-code-editor.netlify.app/
+
+## markdown-editor
+
+### A resizable markdown text editor component implemented with react, typescript, react-md-editor<br />Features of this component:
+
+#### • click inside of the editor window to enable editing mode<br />• click outside of the editor window to enable preview mode
+
+##### Live: https://scottzhu-markdown-editor.netlify.app/
