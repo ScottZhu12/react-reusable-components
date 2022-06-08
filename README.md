@@ -1,6 +1,6 @@
 # Reusable React Components
 
-## Modal-Window
+## modal-window
 
 ### A toggleable modal window component implemented with react, redux-toolkit.<br />Features of this component:
 
