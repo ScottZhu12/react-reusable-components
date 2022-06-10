@@ -39,3 +39,11 @@
 #### • click one of the card components to expand the card
 
 ##### Live: https://scottzhu-expanding-cards.netlify.app/
+
+## resizable-card
+
+### A simple expandable card implemented with React, and FramerMotion<br />Features of this component:
+
+#### • click the card to expand with smooth transition
+
+##### Live: https://scottzhu-resizable-card.netlify.app/
