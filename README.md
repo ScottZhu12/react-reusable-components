@@ -34,7 +34,7 @@
 
 ## expanding-cards
 
-### A list of card components implemented with React, Typescript, ReduxToolkit<br />Features of this component:
+### A list of card components implemented with react, typescript, redux-toolkit<br />Features of this component:
 
 #### • click one of the card components to expand the card
 
@@ -42,8 +42,16 @@
 
 ## resizable-card
 
-### A simple expandable card implemented with React, and FramerMotion<br />Features of this component:
+### A simple expandable card implemented with react, and framer-motion<br />Features of this component:
 
 #### • click the card to expand with smooth transition
 
 ##### Live: https://scottzhu-resizable-card.netlify.app/
+
+## step-indicator
+
+### A step indicator project implemented with react, react-router-dom<br />Features of this component:
+
+#### • simulate a multi-step form application<br />• click buttons to go to next/previous step<br />• a step indicator component to indicates the current step
+
+##### Live: https://scottzhu-step-indicator.netlify.app/
