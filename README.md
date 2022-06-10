@@ -31,3 +31,11 @@
 #### • click inside of the editor window to enable editing mode<br />• click outside of the editor window to enable preview mode
 
 ##### Live: https://scottzhu-markdown-editor.netlify.app/
+
+## expanding-cards
+
+### A list of card components implemented with React, Typescript, ReduxToolkit<br />Features of this component:
+
+#### • click one of the card components to expand the card
+
+##### Live: https://scottzhu-expanding-cards.netlify.app/

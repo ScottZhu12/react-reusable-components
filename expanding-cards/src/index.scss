@@ -81,6 +81,7 @@ button {
   position: relative;
   flex: 0.5;
   transition: flex 0.3s;
+  cursor: pointer;
 
   &__content {
     height: 80vh;
