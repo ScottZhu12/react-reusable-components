@@ -55,3 +55,11 @@
 #### • simulate a multi-step form application<br />• click buttons to go to next/previous step<br />• a step indicator component to indicates the current step
 
 ##### Live: https://scottzhu-step-indicator.netlify.app/
+
+## pagination
+
+### A pagination project implemented with react, react-paginate<br />Features of this component:
+
+#### • this is a demo of using react-paginate with some customized styling<br />• component is rerendered based on the selected page number
+
+##### Live: https://scottzhu-pagination.netlify.app/
